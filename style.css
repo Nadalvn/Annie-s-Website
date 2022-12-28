@@ -1,0 +1,29 @@
+*{
+    color: white;
+}
+body{
+    background-image: url(mau-background-dep.jpg);
+}
+img{
+    width: 250px;
+    border-radius: 50%;
+    height: 270px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+div{
+    text-align: center;
+    justify-content: center;
+}
+p{
+    font-size: 30px;
+}
+button{
+    width: 450px;
+    background-color: Transparent;
+    background-repeat:no-repeat;  
+    height: 70px;
+    border-color: white;
+    font-size: 25px;
+}
